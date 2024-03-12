@@ -1,4 +1,4 @@
-package br.com.hcode.desingpattern.abstractFactory.landVehicles;
+package br.com.hcode.designpattern.abstractFactory.landVehicles;
 
 public interface ILandVehicle {
 

@@ -1,4 +1,4 @@
-package br.com.hcode.desingpattern.abstractFactory.vessels.model;
+package br.com.hcode.designpattern.abstractFactory.vessels.model;
 
 public interface IVessels {
 

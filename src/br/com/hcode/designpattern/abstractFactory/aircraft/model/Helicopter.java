@@ -1,6 +1,6 @@
-package br.com.hcode.desingpattern.abstractFactory.aircraft.model;
+package br.com.hcode.designpattern.abstractFactory.aircraft.model;
 
-import br.com.hcode.desingpattern.abstractFactory.aircraft.IAircraft;
+import br.com.hcode.designpattern.abstractFactory.aircraft.IAircraft;
 
 public class Helicopter implements IAircraft {
     @Override

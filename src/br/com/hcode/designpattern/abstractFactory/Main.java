@@ -1,6 +1,7 @@
-package br.com.hcode.desingpattern.abstractFactory;
+package br.com.hcode.designpattern.abstractFactory;
 
-import br.com.hcode.desingpattern.abstractFactory.app.Application;
+import br.com.hcode.designpattern.abstractFactory.app.Application;
+import br.com.hcode.designpattern.abstractFactory.factories.*;
 import br.com.hcode.desingpattern.abstractFactory.factories.*;
 
 public class Main {

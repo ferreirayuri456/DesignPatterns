@@ -1,4 +1,4 @@
-package br.com.hcode.desingpattern.abstractFactory.aircraft;
+package br.com.hcode.designpattern.abstractFactory.aircraft;
 
 public interface IAircraft {
 

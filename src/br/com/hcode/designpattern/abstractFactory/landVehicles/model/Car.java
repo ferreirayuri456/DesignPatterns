@@ -1,6 +1,6 @@
-package br.com.hcode.desingpattern.abstractFactory.landVehicles.model;
+package br.com.hcode.designpattern.abstractFactory.landVehicles.model;
 
-import br.com.hcode.desingpattern.abstractFactory.landVehicles.ILandVehicle;
+import br.com.hcode.designpattern.abstractFactory.landVehicles.ILandVehicle;
 
 public class Car implements ILandVehicle {
     @Override

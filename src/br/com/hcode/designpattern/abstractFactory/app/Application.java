@@ -1,10 +1,10 @@
-package br.com.hcode.desingpattern.abstractFactory.app;
+package br.com.hcode.designpattern.abstractFactory.app;
 
-import br.com.hcode.desingpattern.abstractFactory.aircraft.IAircraft;
-import br.com.hcode.desingpattern.abstractFactory.factories.ITransportFactory;
-import br.com.hcode.desingpattern.abstractFactory.factories.IWaterTransportFactory;
-import br.com.hcode.desingpattern.abstractFactory.landVehicles.ILandVehicle;
-import br.com.hcode.desingpattern.abstractFactory.vessels.model.IVessels;
+import br.com.hcode.designpattern.abstractFactory.aircraft.IAircraft;
+import br.com.hcode.designpattern.abstractFactory.factories.IWaterTransportFactory;
+import br.com.hcode.designpattern.abstractFactory.landVehicles.ILandVehicle;
+import br.com.hcode.designpattern.abstractFactory.factories.ITransportFactory;
+import br.com.hcode.designpattern.abstractFactory.vessels.model.IVessels;
 
 public class Application {
 
